@@ -1,0 +1,15 @@
+# gitignore template for Jupyter Notebooks
+# website: http://jupyter.org/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Unnecessary file
+.DS_Store
+
+Students_info_*.csv
+Students_marks_*.csv
